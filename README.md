@@ -1,4 +1,4 @@
-# RomanNumerals
+# Roman numerals 
 
-Roman numerals converter
+Roman numerals converter implemented in Elixir
 
